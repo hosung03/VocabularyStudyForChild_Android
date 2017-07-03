@@ -6,8 +6,8 @@
         jar="/GitHub/VocabularyStudyForChild_Android/VocabularyStudyForChild_Android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.0"
-        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
         <dex dex="/GitHub/VocabularyStudyForChild_Android/VocabularyStudyForChild_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8762104313927d220a81c2d24b53fc307c1e2045/classes.dex" />
     </item>
     <item
@@ -15,8 +15,8 @@
         jar="/GitHub/VocabularyStudyForChild_Android/VocabularyStudyForChild_Android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.0"
-        sha1="ffc8cc248390fdd9fd96bc1ae9e1dfbfc335ddc6">
+        revision="25.0.3"
+        sha1="c7940d6adc75755e593dbf4ea1f52f791bd4eca4">
         <dex dex="/GitHub/VocabularyStudyForChild_Android/VocabularyStudyForChild_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b0a405f4f5007cb8a7021cc72f50357bc983e4fa/classes.dex" />
     </item>
 
